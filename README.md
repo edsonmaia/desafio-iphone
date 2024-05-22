@@ -28,7 +28,7 @@ Modelagem e Diagramação de um Componente iPhone
 
 Como solução proposta, após assistir o vídeo e abstrair os problemas, fiz a modelagem utilizando o draw.io
 
-![Modelagem feita no draw.io](doc/images/desafio-modelagem-uml-iphone.drawio.png.png)
+![Modelagem feita no draw.io](https://github.com/edsonmaia/desafio-iphone/blob/main/doc/images/desafio-modelagem-uml-iphone.drawio.png)
 
 > As funcionalidades - ReprodutorMusical, AparelhoTelefonico e NavegadorInternet desenvolvi como interfaces com os métodos a serem implementados, no caso pela classe Iphone.
 
